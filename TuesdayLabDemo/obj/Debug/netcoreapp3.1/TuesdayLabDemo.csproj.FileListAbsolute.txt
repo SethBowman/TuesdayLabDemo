@@ -1,0 +1,13 @@
+C:\Users\brand\Desktop\repos2\TuesdayLabDemo\TuesdayLabDemo\bin\Debug\netcoreapp3.1\TuesdayLabDemo.exe
+C:\Users\brand\Desktop\repos2\TuesdayLabDemo\TuesdayLabDemo\bin\Debug\netcoreapp3.1\TuesdayLabDemo.deps.json
+C:\Users\brand\Desktop\repos2\TuesdayLabDemo\TuesdayLabDemo\bin\Debug\netcoreapp3.1\TuesdayLabDemo.runtimeconfig.json
+C:\Users\brand\Desktop\repos2\TuesdayLabDemo\TuesdayLabDemo\bin\Debug\netcoreapp3.1\TuesdayLabDemo.runtimeconfig.dev.json
+C:\Users\brand\Desktop\repos2\TuesdayLabDemo\TuesdayLabDemo\bin\Debug\netcoreapp3.1\TuesdayLabDemo.dll
+C:\Users\brand\Desktop\repos2\TuesdayLabDemo\TuesdayLabDemo\bin\Debug\netcoreapp3.1\TuesdayLabDemo.pdb
+C:\Users\brand\Desktop\repos2\TuesdayLabDemo\TuesdayLabDemo\obj\Debug\netcoreapp3.1\TuesdayLabDemo.csprojAssemblyReference.cache
+C:\Users\brand\Desktop\repos2\TuesdayLabDemo\TuesdayLabDemo\obj\Debug\netcoreapp3.1\TuesdayLabDemo.AssemblyInfoInputs.cache
+C:\Users\brand\Desktop\repos2\TuesdayLabDemo\TuesdayLabDemo\obj\Debug\netcoreapp3.1\TuesdayLabDemo.AssemblyInfo.cs
+C:\Users\brand\Desktop\repos2\TuesdayLabDemo\TuesdayLabDemo\obj\Debug\netcoreapp3.1\TuesdayLabDemo.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\repos2\TuesdayLabDemo\TuesdayLabDemo\obj\Debug\netcoreapp3.1\TuesdayLabDemo.dll
+C:\Users\brand\Desktop\repos2\TuesdayLabDemo\TuesdayLabDemo\obj\Debug\netcoreapp3.1\TuesdayLabDemo.pdb
+C:\Users\brand\Desktop\repos2\TuesdayLabDemo\TuesdayLabDemo\obj\Debug\netcoreapp3.1\TuesdayLabDemo.genruntimeconfig.cache
